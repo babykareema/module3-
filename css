@@ -1,1 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the tall section */
+.bg-primary {
+    background-color: #337ab7; /* Bootstrap primary color */
+    color: white;
+    padding: 20px;
+}
+
 
